@@ -8,3 +8,5 @@ Steps to be followed: (Data for form 10-K and January 2017)
 2) Run api.py to extract the file names on the basis of conditions as per your need.
 
 3) Save the data to directory in text format
+
+Its the basic code, you can make it more useful by changing the condition as input element, where you can enter the conditions as per the requirement.
